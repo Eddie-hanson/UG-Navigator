@@ -1,4 +1,4 @@
-# UG-GETDIRECTED - DCIT 204 GROUP 20 (END OF COURSE GROUP PROJECT)
+# UG-GETDIRECTED - DCIT 204 GROUP 18 (END OF COURSE GROUP PROJECT)
 
 A java program that provides its users with the shortest possible routes from their chosen current locations to a preferred destination here on the University Of Ghana main campus.  
 
@@ -9,5 +9,5 @@ Various locations in the program are represented by an adjancency list.
 Dijkstra's algorithm is then implemented to get from available paths or routes the shortest.   
 
 
--- DCIT 204 GROUP 20 --
+-- DCIT 204 GROUP 18 --
 ## Java
